@@ -1,5 +1,8 @@
 ### Hi there 👋
+I’m Shaikha Alzaabi.
+I’ve graduated from Zayed University with BSc in Information Technology Concentration in Security and Networking Technologies.
 
+I started loving programming when I consistently started to code. That feeling you get when you get your desired output with minimal code after a long grind and hard work. I love coding because it really excites me, it is fun to do. It really excites me whenever I come across a problem, I get curious about solving it. I am a person who loves to solve puzzles, questions involving logic and thinking ability.
 <!--
 **Shaikha55/shaikha55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
